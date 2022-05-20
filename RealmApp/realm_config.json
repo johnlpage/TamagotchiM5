@@ -1,0 +1,7 @@
+{
+    "app_id": "tamagotchi-rvsbi",
+    "config_version": 20210101,
+    "name": "Tamagotchi",
+    "location": "US-VA",
+    "deployment_model": "LOCAL"
+}

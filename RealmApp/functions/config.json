@@ -1,0 +1,31 @@
+[
+    {
+        "name": "updateGameState",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "newGameEngine",
+        "private": false,
+        "run_as_system": true,
+        "disable_arg_logs": true
+    },
+    {
+        "name": "newUserRecord",
+        "private": false,
+        "run_as_system": true,
+        "disable_arg_logs": true
+    },
+    {
+        "name": "newGraphicsHelper",
+        "private": false,
+        "run_as_system": true,
+        "disable_arg_logs": true
+    },
+    {
+        "name": "newGameState",
+        "private": true,
+        "run_as_system": true,
+        "disable_arg_logs": true
+    }
+]
